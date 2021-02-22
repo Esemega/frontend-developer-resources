@@ -48,7 +48,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ## Indice
 
-- 📓 [Conocimientos básicos informática](#-conocimientos-basicos-informatica)
+- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-basicos-informatica)
 - 📕 [HTML](#-html)
 - ♿️ [ACCESIBILIDAD](#-accesibilidad) 
 - 📘 [CSS](#-css)
@@ -72,7 +72,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ---
 
-## <a name="-conocimientos-basicos-informatica" /> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
+## <a name="-conocimientos-basicos-informatica"></a> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
 ---
 
@@ -362,7 +362,7 @@ Listado de elementos HTML con ejemplos y ejercicios.
 
 ---
 
-## <a name="-accesibilidad" /> ♿️ ACCESIBILIDAD
+## <a name="-accesibilidad"></a> ♿️ ACCESIBILIDAD
 
 ---
 
@@ -2693,7 +2693,7 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 
 ---
 
-## <a name="-creacion-aplicaciones-de-escritorio" /> 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
+## <a name="-creacion-aplicaciones-de-escritorio"></a> 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
 
 ---
 
@@ -2757,7 +2757,7 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 ---
 
-## <a name="-creacion-aplicaciones-para-moviles" /> 📲 CREACIÓN APLICACIONES PARA MÓVILES
+## <a name="-creacion-aplicaciones-para-moviles"></a> 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
 ---
 
@@ -2933,7 +2933,7 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 ---
 
-## <a name="-generador-de-paginas-estaticas" /> ♺ GENERADOR DE PÁGINAS ESTÁTICAS
+## <a name="-generador-de-paginas-estaticas"></a> ♺ GENERADOR DE PÁGINAS ESTÁTICAS
 
 ---
 
