@@ -51,7 +51,7 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 - 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-basicos-informatica)
 - 📕 [HTML](#-html)
-- ♿️ [ACCESIBILIDAD](#%EF%B8%8F-accesibilidad)
+- ♿️ [ACCESIBILIDAD](#-accesibilidad) 
 - 📘 [CSS](#-css)
 - 📒 [JAVASCRIPT](#-javascript)
 - 🛂 [CONTROL DE VERSIONES](#-control-de-versiones)
@@ -64,16 +64,15 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 - 🖼 [FRAMEWORKS CSS](#-frameworks-css)
 - ✅ [TESTING](#-testing)
 - 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
-- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creación-aplicaciones-de-escritorio)
-- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creación-aplicaciones-para-móviles)
-- ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
+- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creacion-aplicaciones-de-escritorio) 
+- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creacion-aplicaciones-para-moviles) 
+- ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-paginas-estaticas) 
 - 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
 - 🗡 [KATAS](#-katas)
-- 🤔 [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interés-o-recursos-de-interés)
-
+- 🤔 [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interes-o-recursos-de-interes)
 ---
 
-## <a id="-conocimientos-basicos-informatica" /> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
+## <a name="-conocimientos-basicos-informatica" /> 📓 CONOCIMIENTOS BÁSICOS INFORMÁTICA
 
 ---
 
@@ -355,7 +354,7 @@ Listado de elementos HTML con ejemplos y ejercicios.
 
 ---
 
-## ♿️ ACCESIBILIDAD
+## <a name="-accesibilidad" /> ♿️ ACCESIBILIDAD
 
 ---
 
@@ -2626,7 +2625,7 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 
 ---
 
-## 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
+## <a name="-creacion-aplicaciones-de-escritorio" /> 🖥 CREACIÓN APLICACIONES DE ESCRITORIO
 
 ---
 
@@ -2684,7 +2683,7 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 ---
 
-## 📲 CREACIÓN APLICACIONES PARA MÓVILES
+## <a name="-creacion-aplicaciones-para-moviles" /> 📲 CREACIÓN APLICACIONES PARA MÓVILES
 
 ---
 
@@ -2854,7 +2853,7 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 ---
 
-## ♺ GENERADOR DE PÁGINAS ESTÁTICAS
+## <a name="-generador-de-paginas-estaticas" /> ♺ GENERADOR DE PÁGINAS ESTÁTICAS
 
 ---
 
@@ -3096,7 +3095,7 @@ Retos desde: responsive web developer, frontend-developer, fullstack developer, 
 
 ---
 
-## 🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
+##  <a name="-sitios-de-interes-o-recursos-de-interes" /> 🤔 SITIOS DE INTERÉS O RECURSOS DE INTERÉS
 
 ---
 
