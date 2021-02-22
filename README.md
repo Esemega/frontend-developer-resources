@@ -8,7 +8,7 @@
 
 Hola 👋, soy MrCodeDev y quiero ayudaros en vuestro camino como Frontend Developer.
 
-Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstáculo como puediera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
+Os comparto recursos para quienes empiecen su camino para ser Frontend Developer, o para afianzar conocimientos que nunca vienen mal. Todos estos recursos son gratuitos para que todo el mundo pueda empezar sin ningún obstáculo como pudiera ser el económico. Siempre puedes después realizar distintos cursos, talleres o incluso bootcamps con gente profesional del sector.
 
 Está dividido en distintos apartados, si encuentras un recurso que no esté aquí y lo ves interesante, puedes hacer una PR para seguir ampliando el catálogo de recursos o simplemente me buscas en Twitter como MrCodeDev y me lo dices para añadirlo.
 
@@ -22,7 +22,7 @@ Quiero agradecer a todas las fuentes de los recursos por realizar todo el conten
 
 Aquí tenéis una leyenda de qué es cada recurso que pongo, siempre aparecerá una mano señalando qué tipo de recurso es 👉.
 
-Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Pudes hacerlo a través de este enlace:
+Si te apetece ayudarme "invitándome a un café ☕️" te estaré muy agradecido. Me ayudarás a crear más contenido y mejorar a la hora de la realización de cualquier contenido. Puedes hacerlo a través de este enlace:
 
 [![alt text](https://raw.githubusercontent.com/mrcodedev/frontend-developer-resources/main/images/coffe-share.jpeg)](https://www.buymeacoffee.com/mrcodedev "Buy me a coffee :D")
 
@@ -46,30 +46,29 @@ Si queréis apoyar con una aportación, siempre se agradece, igual que siempre s
 
 ---
 
-
 ## Indice
 
-- 📓 [CONOCIMIENTOS BÁSICOS INFORMÁTICA](#-conocimientos-basicos-informatica)
+- 📓 [Conocimientos básicos informática](#-conocimientos-basicos-informatica)
 - 📕 [HTML](#-html)
-- ♿️ [ACCESIBILIDAD](#%EF%B8%8F-accesibilidad)
+- ♿️ [Accesibilidad](#%EF%B8%8F-accesibilidad)
 - 📘 [CSS](#-css)
-- 📒 [JAVASCRIPT](#-javascript)
-- 🛂 [CONTROL DE VERSIONES](#-control-de-versiones)
-- 🔒 [SEGURIDAD](#-seguridad)
-- 📦 [ADMINISTRADOR DE PAQUETES](#-administrador-de-paquetes)
-- 🏛 [ARQUITECTURAS CSS](#-arquitecturas-css) 
-- 🤖 [PREPROCESADORES CSS Y POSTCSS](#-prepocesadores-css-y-postcss)
-- 🛠 [BUILD TOOLS](#-build-tools)
-- 🧰 [FRAMEWORKS JAVASCRIPT](#-frameworks-javascript)
-- 🖼 [FRAMEWORKS CSS](#-frameworks-css)
-- ✅ [TESTING](#-testing)
-- 📱 [PROGESSIVE WEB APPS (PWA)](#-progessive-web-apps-pwa)
-- 🖥 [CREACIÓN APLICACIONES DE ESCRITORIO](#-creación-aplicaciones-de-escritorio)
-- 📲 [CREACIÓN APLICACIONES PARA MÓVILES](#-creación-aplicaciones-para-móviles)
-- ♺ [GENERADOR DE PÁGINAS ESTÁTICAS](#-generador-de-páginas-estáticas)
-- 📚 [CURSOS/MINIBOOTCAMPS](#-cursosminibootcamps)
-- 🗡 [KATAS](#-katas)
-- 🤔 [SITIOS DE INTERÉS O RECURSOS DE INTERÉS](#-sitios-de-interés-o-recursos-de-interés)
+- 📒 [JavaScript](#-javascript)
+- 🛂 [Control de versiones](#-control-de-versiones)
+- 🔒 [Seguridad](#-seguridad)
+- 📦 [Administrador de paquetes](#-administrador-de-paquetes)
+- 🏛 [Arquitecturas CSS](#-arquitecturas-css)
+- 🤖 [Preprocesadores CSS y PostCSS](#-prepocesadores-css-y-postcss)
+- 🛠 [Build Tools](#-build-tools)
+- 🧰 [Frameworks JavaScript](#-frameworks-javascript)
+- 🖼 [Frameworks CSS](#-frameworks-css)
+- ✅ [Testing](#-testing)
+- 📱 [Progressive Web Apps (PWA)](#-progessive-web-apps-pwa)
+- 🖥 [Creación aplicaciones de escritorio](#-creación-aplicaciones-de-escritorio)
+- 📲 [Creación aplicaciones para móviles](#-creación-aplicaciones-para-móviles)
+- ♺ [Generadores de páginas estáticas](#-generador-de-páginas-estáticas)
+- 📚 [Cursos/Minibootcamps](#-cursosminibootcamps)
+- 🗡 [Katas](#-katas)
+- 🤔 [Sitios de interés o recursos de interés](#-sitios-de-interés-o-recursos-de-interés)
 
 ---
 
@@ -179,7 +178,9 @@ Trabajamos en nuestro día a día con nuestro IDE favorito, pero a lo mejor escu
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -213,7 +214,7 @@ Hemos escuchado alguna vez la palabra DOM, pero no sabemos realmente lo que es, 
 
 Hay un consorcio que se ocupa de que todo lo que hacemos tenga un estándard.
 
-🔗 **🏳URL**: https://desarrolloweb.com/articulos/que-es-el-dom.html
+🔗 **🏳URL**: https://www.wikiwand.com/es/World_Wide_Web_Consortium
 
 ---
 
@@ -222,6 +223,10 @@ Hay un consorcio que se ocupa de que todo lo que hacemos tenga un estándard.
 Si no sabes que es realmente HTML5, aquí tienes un artículo donde te lo explican.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/HTML5
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -351,7 +356,9 @@ Listado de elementos HTML con ejemplos y ejercicios.
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -403,6 +410,14 @@ Newsletter para recibir toda la actualidad sobre accesibilidad.
 
 ---
 
+#### 👉🖊 **Testeando Accesibilidad Web**
+
+La accesibilidad web no se trata solo de navegación por teclado, contraste de color, o lectores de pantalla. La accesibilidad es un indicador perfecto de la calidad de un sitio web. Cuando un sitio web es accesible, generalmente significa que es inclusivo, usable, ofrece una excelente experiencia de usuario para todos, y además es rápido.
+
+🔗 **🏳URL**: https://octuweb.com/testeando-accesibilidad-web/
+
+---
+
 👉🖊 **Blog de Adrián Bolonio**
 
 Blog de Adrián donde suele subir artículos sobre accesibilidad web
@@ -411,7 +426,9 @@ Blog de Adrián donde suele subir artículos sobre accesibilidad web
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -428,6 +445,10 @@ Blog de Adrián donde suele subir artículos sobre accesibilidad web
 Definición de qué es CSS y ver que estamos actualmente en la versión 3.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Hoja_de_estilos_en_cascada
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -759,7 +780,9 @@ Listado de elementos CSS con ejemplos y hasta con ejercicios.
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -840,6 +863,10 @@ Muchas veces escucharemos que es la programación funcional, pero no sabremos lo
 🔗 **🏳URL**: https://janpierrsanchez.medium.com/introducci%C3%B3n-a-programaci%C3%B3n-funcional-con-javascript-9ef140319865
 
 🔗 **🏳URL**: https://softwarecrafters.io/javascript/introduccion-programacion-funcional-javascript
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -1369,7 +1396,9 @@ Libro totalmente gratuito donde te promete escribir JavaScript potente, limpio y
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1407,7 +1436,11 @@ La primera pregunta que nos vamos a hacer es, ¿qué es un control de versiones 
 
 Después de saber que es un control de versiones y git la siguiente pregunta es: ¿qué es un repositorio?.
 
-🔗 **🏳URL**: https://www.wikiwand.com/es/Repositorio_(contenido_digital)
+🔗 **🏳URL**: https://www.wikiwand.com/es/Repositorio\_(contenido_digital)
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -1467,7 +1500,9 @@ Guía oficial de uso de GitHub. Una vez aprendido como funciona GitHub, vas a sa
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1519,7 +1554,9 @@ Aquí tenemos un artículo que nos habla que es el CORS.
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1551,7 +1588,7 @@ Ya sabemos que es un administrador de paquetes, ahora vamos hablar de NPM que es
 
 Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablaremos de yarn.
 
-🔗 **🏳URL**: https://www.wikiwand.com/es/Yarn_(Facebook)
+🔗 **🏳URL**: https://www.wikiwand.com/es/Yarn\_(Facebook)
 
 ---
 
@@ -1560,6 +1597,10 @@ Hemos hablado de Npm, pero no es el único gestor de dependencias, ahora hablare
 Aunque no estemos desarrollando en NodeJS, tenemos qué saber que es y qué hace.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Node.js
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -1619,7 +1660,9 @@ Documentación de Yarn sobre su uso (si ya lo tenemos instalado podemos obviar l
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1655,7 +1698,9 @@ Carmen Ansio e Ignacio Villanueva, dan una charla sobre las "Buenas practicas en
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1677,7 +1722,9 @@ Una breve descripción de que es un preprocesador CSS.
 
 🔗 **🏳URL**: https://picodotdev.github.io/blog-bitix/2020/08/que-hace-y-ventajas-de-un-preprocesador-de-estilos-css/
 
----
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -1771,7 +1818,9 @@ Artículo de Joan León sobre PostCSS, desde su punto de vista. Hace un repaso s
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1796,6 +1845,10 @@ Este artículo nos resolverá las dudas por qué necesitamos herramientas para l
 Pregunta de StackOverflow sobre cual es el propósito de las build tools.
 
 🔗 **🏴URL**: https://stackoverflow.com/questions/28684041/what-is-the-purposes-of-javascript-build-tools
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -1845,7 +1898,9 @@ Aprende a usar Rollup como una alternativa más pequeña y eficiente al paquete 
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -1928,6 +1983,10 @@ Artículo donde nos enseñarán a tipar bien nuestros datos en TypeScript.
 El título del artículo es Rxjs de 0 a experto en 15 minutos, pero es un poco ambicioso conseguir eso en tan poco tiempo. Veremos una introducción un repaso de su uso de RxJS.
 
 🔗 **🏳URL**: https://medium.com/@osmancea/programaci%C3%B3n-reactiva-con-rxjs-bebc9432485f
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2123,7 +2182,9 @@ Breve introducción a este framework que realiza WebComponents.
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2156,6 +2217,10 @@ Un breve artículo donde se expone que ventajas y que inconvenientes hay en el u
 Listado de 9 frameworks css, donde nos dan sus pros y sus contras desde su punto de vista.
 
 🔗 **🏳URL**: https://athemes.com/collections/best-css-frameworks/
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2267,7 +2332,9 @@ Cómo empezar a instalar Material Design. Muchos frameworks como React, ya tiene
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2342,6 +2409,10 @@ En este artículo del libro, veremos que significa cada uno.
 Listado de Frameworks de Testing en JavaScript. Aquí se nombran los más usados. Una vez utilizado uno, vas a saber utilizar los demás sin ningún problema.
 
 🔗 **🏴URL**: https://medium.com/better-programming/8-awesome-javascript-testing-libraries-43e09141fdc2
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2528,23 +2599,11 @@ Esta es una guía completa para JavaScript y Node.js de la A a la Z. Resume y se
 
 ---
 
-#### 👉🖊 **Testeando Accesibilidad Web**
-
-La accesibilidad web no se trata solo de navegación por teclado, contraste de color, o lectores de pantalla. La accesibilidad es un indicador perfecto de la calidad de un sitio web. Cuando un sitio web es accesible, generalmente significa que es inclusivo, usable, ofrece una excelente experiencia de usuario para todos, y además es rápido.
-
-🔗 **🏳URL**: https://octuweb.com/testeando-accesibilidad-web/
-
----
-
 #### 👉📹 **Introducción al testing con JavaScript**
 
 Vídeo donde podemos ver una breve introduccióin al testing, de una manera sencilla y paso a paso.
 
-🔗 **🏴URL**: https://octuweb.com/testeando-accesibilidad-web/
-
----
-
-https://academind.com/tutorials/javascript-testing-introduction/
+🔗 **🏴URL**: https://academind.com/tutorials/javascript-testing-introduction/
 
 ---
 
@@ -2564,7 +2623,9 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2581,6 +2642,10 @@ Este vídeo de Codely nos promueve que escribamos tests, no demasiados pero que 
 Cada vez es más habitual escuchar que una empresa tiene una Progressive Web App, pero… ¿realmente sabemos qué es? En este post veremos qué es, cuáles son sus características, las tecnologías que emplea, sus ventajas y desventajas y, en definitiva, todo lo que convierte una PWA en una opción muy interesante para desarrollar un proyecto.
 
 🔗 **🏳URL**: https://www.digital55.com/desarrollo-tecnologia/que-es-pwa-ventajas-desventajas/
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2622,7 +2687,9 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2639,6 +2706,10 @@ Vamos a ver como empezar con la creación de una aplicación web progresiva (PWA
 Antes de ver las herramientas sobre creación de aplicaciones de escritorio, ¿realmente sabemos qué es una aplicación de escritorio?.
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/Aplicaci%C3%B3n_de_escritorio
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2680,7 +2751,9 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2697,6 +2770,10 @@ Aquí tenemos una breve introducción como funciona Electron. El contenido puede
 Antes de meternos en harina, debemos de saber que diferencias tiene una y otra.
 
 🔗 **🏳URL**: https://www.nextu.com/blog/apps-nativas-vs-apps-hibridas/
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2850,7 +2927,9 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -2867,6 +2946,10 @@ Una vez acabado todo, tenemos también la documentación de Flutter.
 Primero vamos a ver que es "una página web estática".
 
 🔗 **🏳URL**: https://www.wikiwand.com/es/P%C3%A1gina_web_est%C3%A1tica
+
+<br>
+
+☝ [Volver al Indice](#indice)
 
 <br>
 
@@ -2980,7 +3063,9 @@ En la documentación oficial tendremos nuestros primeros pasos de como instalar 
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -3066,9 +3151,28 @@ Fictizia es una de las mejores escuelas para poder estudiar desarrollo en Madrid
 
 🔗 **🏳URL**: https://github.com/Fictizia
 
+---
+
+#### 👉📹📚 **Bootcamp realizado por midudev de Fullstackopen**
+
+Bootcamp realizado por @midudev, donde vas a realizar con él, el bootcamp de Fullstackopen desde el principio.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=wTpuKOhGfJE&list=PLV8x_i1fqBw0Kn_fBIZTa3wS_VZAqddX7
+
+---
+
+#### 👉📹📚 **Programando en vivo con Leónidas Esteban**
+
+Leónidas nos propone realizar junto a él distintos proyectos que te ayudaran a poner tus conociminetos
+de HTML5, CSS3 y JS a prueba.
+
+🔗 **🏳URL**: https://www.youtube.com/watch?v=ScSHSI7TzRw&list=PLHsJ3-ff9dpFtMoPYrfLq0J8wpeX33zQS
+
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -3092,7 +3196,9 @@ Retos desde: responsive web developer, frontend-developer, fullstack developer, 
 
 <br>
 
-[Volver al Indice](#indice)
+☝ [Volver al Indice](#indice)
+
+<br>
 
 ---
 
@@ -3202,3 +3308,9 @@ Interesante artículo de freeCodeCamp, sobre comandos de consola para Linux (tam
 Tutorial de linea de comandos de la mano de DjangoGirls, en este caso tenemos incluida la terminal de Windows.
 
 🔗 **🏳URL**: https://tutorial.djangogirls.org/es/intro_to_command_line/
+
+<br>
+
+☝ [Volver al Indice](#indice)
+
+<br>
